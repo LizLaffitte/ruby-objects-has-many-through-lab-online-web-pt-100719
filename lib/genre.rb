@@ -7,5 +7,6 @@ class Genre
     @@all << self
   end
   
-  def  
+  def songs 
+  end
 end
