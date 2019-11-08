@@ -4,5 +4,6 @@ class Genre
   
   def initalize(name)
     @name = name
+    @@all << self
   end
 end
