@@ -1,2 +1,2 @@
-class assert_generates
-  
+class Genre 
+end
