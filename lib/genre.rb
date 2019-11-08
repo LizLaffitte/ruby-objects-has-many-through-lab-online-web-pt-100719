@@ -1,0 +1,2 @@
+class assert_generates
+  
